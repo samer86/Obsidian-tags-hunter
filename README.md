@@ -13,10 +13,16 @@
 1. Clone Repo
 2. edit ots.conf by adding vault name, vault path and obsidian app path.
 
-
 ### PS
 do not use (') or (") around vault name nor paths!
  
+
+### Functionalities
+in fzf search list:
+- ctrl-x: clear search query
+- ctl-s: clear selections
+- ctrl-r: reload search results
+
 
 
 
